@@ -41,11 +41,17 @@
     <section id="portfolio">
         <h1 class="headings">PORTFOLIO</h1>
         <div class="gallery">
+            <img src="img1.jpg" alt="">
             <img src="Portfolio/img1.jpg" alt="">
+            <img src="img2.jpg" alt="">
             <img src="Portfolio/img2.jpg" alt="">
+            <img src="img3.jpg" alt="">
             <img src="Portfolio/img3.jpg" alt="">
+            <img src="img4.jpg" alt="">
             <img src="Portfolio/img4.jpg" alt="">
+            <img src="img5.jpg" alt="">
             <img src="Portfolio/img5.jpg" alt="">
+            <img src="img6.jpg" alt="">
             <img src="Portfolio/img6.jpg" alt="">
         </div>
     </section>
